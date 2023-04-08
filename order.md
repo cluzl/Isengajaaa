@@ -4,7 +4,7 @@ title: "Cara Order"
 nav_order: 2
 ---
 
-1. Mengirimkan file ke [Whatsapp](https://wa.me/message/CYHQT7FFRGG3C1) bisa dalam format STEP, 3MF, STL, OBJ
+1. Mengirimkan file ke [Whatsapp](https://wa.me/message/CYHQT7FFRGG3C1) bisa dalam format STEP/ 3MF/ STL/ OBJ atau link ke [Thingiverse](thingiverse.com) ataupun [Printables](printables.com)
 
    ![](./images/whatsapp.jpg)
    
