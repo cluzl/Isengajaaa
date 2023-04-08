@@ -49,3 +49,8 @@ Camera:         Xiaovv HD Webcam
 
 build plate:    Spring Steel Textured PEI
 
+# Filament
+
+Kami memakai filament merek SUNLU untuk PLA, filament merek ESUN untuk PETG, dan filament merek SUNLU untuk TPU 95A
+
+
