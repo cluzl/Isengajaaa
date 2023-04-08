@@ -42,4 +42,4 @@ Kami menerima settingan infill dari 5%-100% dimana pada 100%, benda print isinya
 Pelajari lebih lanjut [3d print infill](https://all3dp.com/2/infill-3d-printing-what-it-means-and-how-to-use-it/)
 
 
-### Next: [Sourcing Information](./sourcing.md)
+### Next: [Slicer Setting](./slicersetting.md)
