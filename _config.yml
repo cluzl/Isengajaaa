@@ -4,7 +4,7 @@ description: Jasa print 3d
 logo: "/images/voron_design_logo.png"
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
-color_scheme: voron-dark
+color_scheme: just-the-docs
 url: https://cluzl.github.io/isengajaa
 search_enabled: true
 search.button: true
