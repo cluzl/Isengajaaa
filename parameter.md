@@ -17,7 +17,7 @@ PLA adalah material plastik paling umum digunakan untuk 3d printing. PLA memilik
 
 PETG adalah material plastik kedua yang paling umum digunakan karena sifatnya yang lebih kuat daripada PLA dan lebih tahan dari panas dan juga sinar UV. PETG adalah material yang mirip dengan material botol kemasan sekali pakai. Kekurangan dari PETG adalah hasil print yang akan sedikit lebih tidak baik daripada PLA.
 
-[PLA and PETG Comparasion](https://all3dp.com/2/petg-vs-pla-3d-printing-filaments-compared/)
+Pelajari lebih lanjut [PLA and PETG Comparasion](https://all3dp.com/2/petg-vs-pla-3d-printing-filaments-compared/)
 
 
 
@@ -31,7 +31,7 @@ Kami menerima layer height 0.1mm hingga 0.2mm dan semakin kecil layer height, ma
 
 
 
-[3d print layer height](https://all3dp.com/2/3d-printer-layer-height-how-much-does-it-matter/)
+Pelajari lebih lanjut [3d print layer height](https://all3dp.com/2/3d-printer-layer-height-how-much-does-it-matter/)
 
 ## Infill
 
@@ -39,7 +39,7 @@ Kami menerima settingan infill dari 5%-100% dimana pada 100%, benda print isinya
 
 ![](./images/Infill.jpg)
 
-[3d print infill](https://all3dp.com/2/infill-3d-printing-what-it-means-and-how-to-use-it/)
+Pelajari lebih lanjut [3d print infill](https://all3dp.com/2/infill-3d-printing-what-it-means-and-how-to-use-it/)
 
 
 # Printer Models
