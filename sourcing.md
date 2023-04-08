@@ -78,6 +78,9 @@ Baca selengkapnya di [Support setting](https://wiki.bambulab.com/en/software/bam
 
 kita menggunakan skirt atau brim tergantung dengan objek yang akan di print. Objek dengan permukaan dasar kecil akan menggunakan brim yang lebih besar daripada objek dengan permukaan dasar awal besar.
 
+![](./images/SkirtType.jpg)
+Sumber: [Simplyfy3D](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
+
 baca selengkapnya di [Rafts, Skirts and Brims!](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
 
 
