@@ -22,4 +22,4 @@ Jika agan ada yang ingin bertanya-tanya mengenai seputaran 3d printer bisa juga 
 
 ---
 
-### Next: [Pemilihan parameter print](./Parameter.md)
+### Next: [Pemilihan parameter print](./parameter.md)
