@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Creality CR-10s Pro V2
 
-Build Volume:   300*300*330mm
+Build Volume:   300x300x330mm
 
 Print Speed:    Up to 200mm/s
 
@@ -27,9 +27,9 @@ Camera:         Xiaovv HD Webcam
 build plate:    Spring Steel Smooth PEI
 
 
-## Voron 2.4 350mm
+## [Voron 2.4 350mm](https://vorondesign.com/voron2.4)
 
-Build Volume:   350*350*330mm
+Build Volume:   350x350x330mm
 
 Print Speed:    Up to 400mm/s
 
