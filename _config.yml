@@ -5,11 +5,8 @@ logo: "/images/voron_design_logo.png"
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 color_scheme: voron-dark
+url: https://cluzl.github.io/isengajaa
 search_enabled: true
 search.button: true
-aux_links:
-  "Voron Documentation on GitHub":
-    - "https://github.com/VoronDesign/Voron-Documentation"
-  "VoronDesign Home":
-    - "https://vorondesign.com"
+
 
