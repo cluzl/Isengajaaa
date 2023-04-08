@@ -27,11 +27,17 @@ PETG adalah material plastik kedua yang paling umum digunakan karena sifatnya ya
 
 Kami menerima layer height 0.1mm hingga 0.2mm dan semakin kecil layer height, maka hasil akan semakin bagus. Layer height settingan normal kami adalah 0.2mm karena dengan nominal segitu, hasil yang didapatkan sudah cukup bagus untuk print benda umum dan keuntungan lainnya adalah harga yang lebih murah. Untuk print benda yang kecil atau miniatur, layer height kecil seperti 0.12mm lebih dianjurkan agar garis-garis antar layer tidak terlalu terlihat. 
 
+![](./images/LayerHeight.jpg)
+
+
+
 [3d print layer height](https://all3dp.com/2/3d-printer-layer-height-how-much-does-it-matter/)
 
 ## Infill
 
 Kami menerima settingan infill dari 5%-100% dimana pada 100%, benda print isinya padat (tidak ada rongga-rongga). Settingan normal yang kami pakai adalah infill cubic 20% karena sudah cukup kuat untuk beban normal dan hasil print relatif ringan. Untuk benda yang membutuhkan beban extra, direkomendasikan untuk memilih settingan infill diatas 40% agar benda menjadi lebih kuat.
+
+![](./images/Infill.jpg)
 
 [3d print infill](https://all3dp.com/2/infill-3d-printing-what-it-means-and-how-to-use-it/)
 
