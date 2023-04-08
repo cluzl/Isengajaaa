@@ -16,7 +16,7 @@ Motion:         X&Y linear rail
 
 Extruder:       Micro Swiss NG™ Direct Drive Extruder
 
-Nozzle:         Generic CHT 0.4mm nozzle
+Nozzle:         Generic CHT 0.4mm
 
 Cooling:        Dual 5015 fan
 
@@ -39,7 +39,7 @@ Extruder:       Vz-HextrudORT
 
 Hot end:        Dragon HF/UHF
 
-Nozzle:         Bondtech CHT 0.4mm nozzle
+Nozzle:         Bondtech CHT 0.4mm
 
 Cooling:        Drone motor 5015 sized fan
 
