@@ -1,1 +1,1 @@
-Please to go the [documentation site](https://vorondesign.github.io/Voron-Documentation/)
+Please to go the [welcome](https://cluzl.github.io/Isengajaaa/welcome.html)
