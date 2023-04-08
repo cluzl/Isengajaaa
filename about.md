@@ -19,7 +19,9 @@ banyak toko yang menggunakan printer Creality Ender 3 yang merupakan printer ent
 Pada akhir kata, jasa print saya bukanlah yang paling sempurna karena saya juga adalah mahasiswa yang masih belajar akan hal ini.  
 Jika agan ada yang ingin bertanya-tanya mengenai seputaran 3d printer bisa juga untuk mengontak saya ^^
 
+# About the shop
 
----
+nama "Iseng ajaa' diciptakan karena saat membuat toko di tokopedia, tidak kepikiran mau memberi nama toko apa dan waktu itu membuat toko di tokopedia dilakukan karena iseng namun toko "Iseng aja" sudah dipakai orang lain, terpaksalah nama tokonya dibuat jadi "Iseng ajaa"
+
 
 
