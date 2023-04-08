@@ -19,6 +19,10 @@ PETG adalah material plastik kedua yang paling umum digunakan karena sifatnya ya
 
 Pelajari lebih lanjut [PLA and PETG Comparasion](https://all3dp.com/2/petg-vs-pla-3d-printing-filaments-compared/)
 
+## TPU 95A
+
+TPU 95A adalah material flexibel cocok untuk print objek seperti ban mainan
+
 
 
 # Parameter print yang dapat dipilih
