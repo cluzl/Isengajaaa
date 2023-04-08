@@ -28,9 +28,9 @@ selengkapnya di [Arc move](https://wiki.bambulab.com/en/software/bambu-studio/hi
 
 ### Ironing
 
-Kami tidak menggunakan settingan ini karena hasil yang didapatkan kurang memuaskan karena adanya over-extrusion di bagian pinggir objek dan tidak cocok untuk objek dengan bentuk yang tidak memiliki permukaan atas yang luas seperti bola. Untuk mendapatkan hasil serupa, kami menggunakan parameter khusus agar hasil permukaan atas serupa dengan ironing namun tanpa efek negatifnya. 
+Kami tidak menggunakan settingan ini karena hasil yang didapatkan kurang memuaskan karena adanya [over-extrusion](https://3dsolved.com/over-extrusion-curling-on-corners-how-to-easily-fix-it/) di bagian pinggir objek dan tidak cocok untuk objek dengan bentuk yang tidak memiliki permukaan atas yang luas seperti bola. Untuk mendapatkan hasil serupa, kami menggunakan parameter khusus agar hasil permukaan atas serupa dengan ironing namun tanpa efek negatifnya. 
 
-selengkapnya di [ironing](https://all3dp.com/2/cura-ironing-3d-printing-ironing/)
+baca selengkapnya mengenai [ironing](https://all3dp.com/2/cura-ironing-3d-printing-ironing/)
 
 ## Strength
 
@@ -56,7 +56,7 @@ kecepatan yang kita set lebih cepat dari kecepatan print kompetitor karena print
 
 ![](./images/InputShaping.jpg)
 
-baca selengkapnya di [input shaping](https://all3dp.com/2/klipper-input-shaping-simply-explained/)
+baca selengkapnya mengenai [input shaping](https://all3dp.com/2/klipper-input-shaping-simply-explained/)
 
 Untuk print pada kecepatan yang lebih tinggi, kami menggunakan printhead yang memiliki kemampuan untuk mengeluarkan plastik dalam kecepatan volumetric tinggi serta menggunakan nozzle CHT.
 
@@ -72,15 +72,15 @@ Kami menggunakan support di semua print kami kecuali ada request khusus dari kon
 
 Tipe support yang digunakan menyesuaikan dengan objek yang akan di print. Objek dengan bentuk menyerupai kotak akan menggunakan normal support sedangkan objek berbentuk patung akan menggunakan tree support.
 
-Baca selengkapnya di [Support setting](https://wiki.bambulab.com/en/software/bambu-studio/support)
+Baca selengkapnya mengenai [Support setting](https://wiki.bambulab.com/en/software/bambu-studio/support)
 
-## skirt/brim
+## skirt/brim/raft
 
 kita menggunakan skirt atau brim tergantung dengan objek yang akan di print. Objek dengan permukaan dasar kecil akan menggunakan brim yang lebih besar daripada objek dengan permukaan dasar awal besar. Kami tidak menggunakan raft karena kualitas yang dihasilkan akan lebih buruk dan bed printer kami sudah level karena menggunakan bed leveling
 
 ![](./images/SkirtType.jpg)
 Sumber: [Simplyfy3D](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
 
-baca selengkapnya di [Rafts, Skirts and Brims!](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
+baca selengkapnya mengenai [Rafts, Skirts and Brims!](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
 
 
