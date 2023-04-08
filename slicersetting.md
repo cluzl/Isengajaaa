@@ -84,6 +84,3 @@ Sumber: [Simplyfy3D](https://www.simplify3d.com/resources/articles/rafts-skirts-
 baca selengkapnya di [Rafts, Skirts and Brims!](https://www.simplify3d.com/resources/articles/rafts-skirts-and-brims/)
 
 
-
-
-### Next: [The Build](./build/index.md)
