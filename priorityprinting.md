@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Priority printing
-nav_order: 5
+nav_order: 6
 ---
 
 # Priority Printing
