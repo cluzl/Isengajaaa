@@ -4,7 +4,7 @@ title: Welcome
 nav_order: 1
 ---
 
-# 3d print with Isengajaa
+# 3d print with Iseng ajaa
 
 Haloo..
 
