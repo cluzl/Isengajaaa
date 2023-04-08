@@ -22,4 +22,4 @@ Jika agan ada yang ingin bertanya-tanya mengenai seputaran 3d printer bisa juga 
 
 ---
 
-### Next: [Choosing a Printer / Extruder](./hardware.md)
+### Next: [Pemilihan parameter print](./Parameter.md)
