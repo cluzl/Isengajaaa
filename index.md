@@ -14,6 +14,6 @@ Bisa mengirim file ke [Whatsapp berikut](https://wa.me/message/CYHQT7FFRGG3C1):
 
 ![](./images/whatsapp.jpg)
 
-Bisa order melalui tokopedia [di sini]
+Bisa order melalui tokopedia [di sini](https://tokopedia.link/dJQMcHJHPyb)
 
 ### Next: [Cara Order](./order.md)
