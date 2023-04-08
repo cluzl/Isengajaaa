@@ -6,7 +6,7 @@ nav_order: 4
 
 # Slicer
 
-Kami menggunakan slicer Orca slicer yang merupakan anak dari prusa slicer. 
+Kami menggunakan slicer [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) yang merupakan anak dari [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/). 
 
 ## Quality
 
