@@ -1,7 +1,7 @@
 layout: default
 name: 3d print Iseng ajaa
 description: Jasa print 3d
-logo: "/images/voron_design_logo.png"
+logo: "/images/IsengAjaa.png"
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 color_scheme: voron-dark
