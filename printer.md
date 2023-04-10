@@ -53,4 +53,6 @@ build plate:    Spring Steel Textured PEI
 
 Kami memakai filament merek SUNLU untuk PLA, filament merek ESUN untuk PETG, dan filament merek SUNLU untuk TPU 95A
 
+Pemilihan filament SUNLU karena pada pengetesan kami, flowrate dengan filament ESUN lebih rendah dibandingkan dengan SUNLU sehingga terjadi underextrusion di beberapa bagian print yang menyebabkan penurunan kualitas print
+
 
