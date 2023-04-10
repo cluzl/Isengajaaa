@@ -20,12 +20,6 @@ Kami menggunakan default layer width 0.45mm namun untuk setiap line type, ada se
 
 selengkapnya di [Arachne perimeter generator](https://all3dp.com/2/cura-ironing-3d-printing-ironing/)
 
-### Arc Fitting
-
-Kami menggunakan arc welder agar hasil print lebih mulus dan lebih cepat dan fitur ini hanya ada di firmware klipper
-
-selengkapnya di [Arc move](https://wiki.bambulab.com/en/software/bambu-studio/high-speed-print-at-quality)
-
 ### Ironing
 
 Kami tidak menggunakan settingan ini karena hasil yang didapatkan kurang memuaskan karena adanya [over-extrusion](https://3dsolved.com/over-extrusion-curling-on-corners-how-to-easily-fix-it/) di bagian pinggir objek dan tidak cocok untuk objek dengan bentuk yang tidak memiliki permukaan atas yang luas seperti bola. Untuk mendapatkan hasil serupa, kami menggunakan parameter khusus agar hasil permukaan atas serupa dengan ironing namun tanpa efek negatifnya. 
@@ -61,6 +55,10 @@ baca selengkapnya mengenai [input shaping](https://all3dp.com/2/klipper-input-sh
 Untuk print pada kecepatan yang lebih tinggi, kami menggunakan printhead yang memiliki kemampuan untuk mengeluarkan plastik dalam kecepatan volumetric tinggi serta menggunakan nozzle CHT.
 
 baca selengkapnye mengenai [CHT Nozzle](https://www.cnckitchen.com/blog/bondtech-cht-high-flow-nozzle-reviewed)
+
+Kami juga memastikan kekuatan hasil print kami sesuai spek kekuatan standar karena print yang terlalu cepat dapat mengakibatkan adhesi layer yang buruk yang menyebabkan penurunan kekuatan hasil print
+
+baca selengkapnya mengenai [3d Print Strength](https://youtu.be/qBvTWFEd7rk)
 
 ### acceleration
 
