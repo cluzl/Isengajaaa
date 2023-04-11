@@ -7,7 +7,7 @@ nav_order: 3
 
 # Material
 
-Saat ini kami hanya menerima material PLA, PETG, dan TPU 95A
+Saat ini kami hanya menerima material PLA+, PETG, dan TPU 95A
 
 ## PLA+
 
