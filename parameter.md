@@ -11,15 +11,15 @@ Saat ini kami hanya menerima material PLA+, PETG, dan TPU 95A
 
 ## PLA+
 
-PLA adalah material plastik paling umum digunakan untuk 3d printing. PLA memiliki kelebihan dibandingkan dengan material lainnya karena bahan ini lebih mudah untuk diprint dan harganya yang terjangkau, namun memiliki kekurangan yaitu mulai lembek pada termperatur 55° C dan leleh pada temperatur 180° C sehingga tidak cocok untuk diaplikasikan pada lingkungan dengan temperatur tinggi. 
+PLA+ adalah material plastik paling umum digunakan untuk 3d printing. PLA+ memiliki kelebihan dibandingkan dengan material lainnya karena bahan ini lebih mudah untuk diprint dan harganya yang terjangkau, namun memiliki kekurangan yaitu mulai lembek pada termperatur 55° C dan leleh pada temperatur 180° C sehingga tidak cocok untuk diaplikasikan pada lingkungan dengan temperatur tinggi. 
 
 ## PETG
 
-PETG adalah material plastik kedua yang paling umum digunakan karena sifatnya yang lebih kuat daripada PLA dan lebih tahan dari panas dan juga sinar UV. PETG adalah material yang mirip dengan material botol kemasan sekali pakai. Kekurangan dari PETG adalah hasil print yang akan sedikit lebih tidak baik daripada PLA.
+PETG adalah material plastik kedua yang paling umum digunakan karena sifatnya yang lebih kuat daripada PLA+ dan lebih tahan dari panas dan juga sinar UV. PETG adalah material yang mirip dengan material botol kemasan sekali pakai. Kekurangan dari PETG adalah hasil print yang akan sedikit lebih tidak baik daripada PLA+.
 
 *Hasil dari print PETG akan sedikit lebih tidak mulus dibanding PLA karena material PETG lebih sulit untuk diprint 
 
-Pelajari lebih lanjut [PLA and PETG Comparasion](https://all3dp.com/2/petg-vs-pla-3d-printing-filaments-compared/)
+Pelajari lebih lanjut [PLA+ and PETG Comparasion](https://all3dp.com/2/petg-vs-pla-3d-printing-filaments-compared/)
 
 ## TPU 95A
 
