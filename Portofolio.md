@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portofolio
+title: Portfolio
 nav_order: 9
 ---
 
