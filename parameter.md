@@ -51,7 +51,7 @@ Pelajari lebih lanjut [3d print infill](https://all3dp.com/2/infill-3d-printing-
 
 ### PLA+
 
-untuk saat ini tersedia warna hitam, grey, silver, putih, merah, hijau, biru, dan cyan
+untuk saat ini tersedia warna hitam, grey, silver, putih, merah, hijau, biru, cyan, kuning, silk gold, transparent
 
 ### PETG
 
